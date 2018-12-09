@@ -4,3 +4,6 @@ function addOne(num) {
 function double(num) {
     return num * 2;
 }
+function triple(num) {
+    return num - 3;
+}
